@@ -6,5 +6,5 @@ Examples:
 
 var colorized = require('console-color');
 
-console.log(colorized.pass('pass'))
-console.log(colorized.bright('process'))
+console.log(colorized.pass('pass'));
+console.log(colorized.bright('process'));
