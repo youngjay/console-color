@@ -1,0 +1,6 @@
+{
+  "name": "console-color",
+  "main": "lib/console-color.js",
+  "description": "make the console a little bit colorful",
+  "keywords": ["console", "terminal", "color", "colorized", "colorful"]
+}
