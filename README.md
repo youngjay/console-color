@@ -1,4 +1,10 @@
 console-color
 =============
 
-make the console a little bit colorful
+Examples:
+```javascript
+
+var colorized = require('console-color');
+
+console.log(colorized.pass('pass'))
+console.log(colorized.bright('process'))
