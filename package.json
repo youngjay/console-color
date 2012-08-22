@@ -1,6 +1,16 @@
 {
-  "name": "console-color",
+  "name": "console-colorjs",
+  "version": "0.0.2",
   "main": "lib/console-color.js",
   "description": "make the console a little bit colorful",
-  "keywords": ["console", "terminal", "color", "colorized", "colorful"]
+  "keywords": [
+    "console",
+    "terminal",
+    "color",
+    "colorized",
+    "colorful"
+  ],
+  "readme": "console-color\r\n=============\r\n\r\nExamples:\r\n```javascript\r\n\r\nvar colorized = require('console-color');\r\n\r\nconsole.log(colorized.pass('pass'));\r\nconsole.log(colorized.bright('process'));",
+  "_id": "console-colorjs@0.0.1",
+  "_from": "console-colorjs@*"
 }
